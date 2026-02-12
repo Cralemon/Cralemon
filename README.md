@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Cralemon (Charlie Zhang) 👋
 
-<!--
-**Cralemon/Cralemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergraduate @ HBPU. Building digital experiences and capturing life through a lens.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 Profile
+- 🎓 **Focus:** Computer Science (Transferred) | Master of learning
+- 🎨 **Interests:** UI/UX, Typography, Photography
+- 🎮 **Gaming:** Genshin Impact (Lore & Music)
+- 🛠 **Stack:** Oops, I'm still learning..
+- ✨ **Vibe:** INFP | Virgo
+
+### 🚀 What's Happening
+- 🏗 Maintaining my server & [personal blog](https://blog.cralemon.com)
+- 📷 Exploring daily life through photography
+- 📚 Deepening my CS professional knowledge
+
+### 📫 Reach Me
+[Blog](https://blog.cralemon.com) | [Email](mailto:zhangjianqin@stu.hbpu.edu.cn)
+
+> TECH OTAKUS SAVE THE WORLD
